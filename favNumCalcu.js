@@ -1,4 +1,4 @@
-let favNumber = Math.floor(Math.random() * 15) + 1; 
+let favNumber = 12;
 
 let guess;
 while (guess !== favNumber) {
