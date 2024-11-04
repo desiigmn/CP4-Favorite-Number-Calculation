@@ -9,7 +9,7 @@ while (guess !== favNumber) {
     } else if (guess > favNumber){
         alert("Too high, try again!")
     } else {
-        console.log("Correct, you guessed my favorite number!");
+        alert("Correct, you guessed my favorite number!");
         break;
     }
 }
